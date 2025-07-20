@@ -35,5 +35,4 @@ jobs:
       with:
         name: output-images
         path: |
-          *.img
-          output/*.img
+          boot-z3s.img
